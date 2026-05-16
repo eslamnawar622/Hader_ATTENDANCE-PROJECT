@@ -1,0 +1,24 @@
+{
+  "Eslam_Nawar": {
+    "total_fines": 3630.0,
+    "total_minutes": 363,
+    "entries": [
+      {
+        "date": "2026-05-16",
+        "minutes": 363,
+        "fine": 3630
+      }
+    ]
+  },
+  "Mohamed_Nawar": {
+    "total_fines": 8460.0,
+    "total_minutes": 846,
+    "entries": [
+      {
+        "date": "2026-05-16",
+        "minutes": 846,
+        "fine": 8460
+      }
+    ]
+  }
+}
